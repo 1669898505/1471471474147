@@ -1,0 +1,36 @@
+<style>body{background-color: beige;color:blue;font-size:16px;}
+		h1,h2,h3,h4,h5,h6{font-family: '楷体';color:darkorchid;text-align: center;}
+		h1{font-size:30px
+font-size:2rem;
+			background:#fff;
+			border:0.1rem solid hsla(359,71%,51%,1.00)
+}
+		h2{font-size:26px}
+		h3{font-size:22px}
+		h4{font-size:18px}
+		p{font-family:'华文楷体，楷体，宋体';text-indent: 2em;}
+		p.begain{color:black;text-decoration: underline; }
+		p.begaina{text-align: center;font-size: 24px;}
+		p.begain a{color: darkmagenta;text-decoration:none;}
+		.strong{font-weight:100;color:crimson;}
+		#p2{font-style:italic;}
+		#container{width: 80%;
+			margin-bottom: 0px auto 0px auto;
+			padding: 5px 20px 5px 20px;
+			background-color:bisque;
+			
+			
+		}
+body{
+	width:1000px;
+	height:6000px;
+		border:100px solid hsla(237,66%,48%,1.00);
+	margin:100px;
+	padding:10px;
+}
+div{
+	width:100PX;
+	height:100PX;
+	border:10px solid #F00283;
+	border-top-color:#FF0000;
+}
